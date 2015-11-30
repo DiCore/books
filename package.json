@@ -1,0 +1,10 @@
+{
+  "name": "Books",
+  "description": "A simple book app",
+  "author": "Deyan Makedonski",
+  "dependencies": {
+    "angular2": "*",
+    "systemjs": "*",
+    "typescript": "*"
+  }
+}
